@@ -1,0 +1,10 @@
+{
+    "name": "test/activities",
+    "authors": [
+        {
+            "name": "Konstantin Beloglazov",
+            "email": "desiresofgod@gmail.com"
+        }
+    ],
+    "require": {}
+}

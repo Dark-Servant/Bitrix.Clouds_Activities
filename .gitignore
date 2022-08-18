@@ -1,0 +1,15 @@
+/*
+!*.php
+!*.json
+!/bx
+!/configs
+!/css
+!/js
+!/lang
+!/lib
+!/viewers
+!.gitignore
+!README.md
+*.txt
+package-lock.json
+console*.php
